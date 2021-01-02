@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/8/7 18:05
-# @Author  : ChenZi
+# @Author  : Xiaoyunlong
 
 
 from main_spider import main_init

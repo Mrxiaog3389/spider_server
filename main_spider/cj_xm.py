@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/8/10 11:38
-# @Author  : ChenZi
+# @Author  : Xiaoyunlong
 from django.shortcuts import HttpResponse
 from tool import public_tool as pt
 from dao import CJ_XM
